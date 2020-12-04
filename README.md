@@ -1,2 +1,3 @@
 # hello-world-E
 Aprendendo com você...
+Estou cansado de dar soco em ponta de faca... Por isso quero muito aprender a programar.
